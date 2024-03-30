@@ -20,7 +20,18 @@ In this repository, you'll find a collection of Angular projects that I've devel
 
 ## Technology Stack
 
-These projects are built using Angular, a powerful frontend framework for building dynamic web applications. I've utilized various Angular features and concepts such as components, services, routing, and forms throughout the projects.
+This repository showcases projects utilizing a variety of frontend frameworks and libraries, including Angular, React, and Next.js. Each project offers a unique perspective on frontend development, with two projects dedicated to Angular, one to React, and another to Next.js.
+
+In addition to frontend technologies, I've incorporated backend technologies and concepts such as Socket.IO for real-time communication and user authentication, ensuring comprehensive and well-rounded project experiences.
+
+![React](https://img.shields.io/badge/React-17-blue?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-14_With_server_Actions-black?logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-17-red?logo=angular)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-4.1.3-yellow?logo=socket.io)
+
+
+
+
 
 ## Showcase My Skills
 
